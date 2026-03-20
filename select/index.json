@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "翼はPleasure Line",
+  "base_artist": "栗林みな実",
+  "createdAt": "2026-03-20T15:05:58.142311Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "翼はPleasure Line (off vocal)",
+      "artist": "栗林みな実",
+      "has_synced": false,
+      "path": "select/01_翼はPleasure_Line_(off_vocal)_栗林みな実.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "翼はPleasure Line",
+      "artist": "栗林みな実",
+      "has_synced": true,
+      "path": "select/02_翼はPleasure_Line_栗林みな実.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "翼はPleasure Line",
+      "artist": "Kuribayashi Minami",
+      "has_synced": true,
+      "path": "select/03_翼はPleasure_Line_Kuribayashi_Minami.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "翼はPleasure Line",
+      "artist": "栗林 みな実",
+      "has_synced": false,
+      "path": "select/pl_01_翼はPleasure_Line_栗林_みな実.txt"
+    }
+  ]
+}
